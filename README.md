@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfirpo&show_icons=true&locale=en&layout=compact" alt="arfirpo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfirpo&show_icons=true&locale=en" alt="arfirpo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arfirpo&show_icons=true&locale=en" alt="Arfirpo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfirpo&" alt="arfirpo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfirpo&" alt="Arfirpo" /></p>
