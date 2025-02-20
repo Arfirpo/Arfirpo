@@ -40,8 +40,8 @@ src="https://img.shields.io/github/followers/Arfirpo?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Arfirpo"><img src="https://github-readme-stats.vercel.app/api?username=Arfirpo&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=f97316&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Arfirpo's GitHub stats" /></a>
+<a align="left" href="http://www.github.com/Arfirpo"><img src="https://github-readme-stats.vercel.app/api?username=Arfirpo&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=f97316&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Arfirpo's GitHub stats" /></a>
 
-<a href="http://www.github.com/Arfirpo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arfirpo&stroke=f97316&background=1c1917&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a align="right" href="http://www.github.com/Arfirpo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arfirpo&stroke=f97316&background=1c1917&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
 <a href="https://github.com/Arfirpo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfirpo&langs_count=10&title_color=f97316&text_color=f97316&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
