@@ -9,7 +9,6 @@ I´ve lerning to code since 2023. Currently studying University Analyst Programm
 * 🌍  I'm based in La Plata, Buenos Aires. Argentina
 * ✉️  You can contact me at [agustin\_firpo@outlook.com.ar](mailto:agustin_firpo@outlook.com.ar)
 * 🧠  I'm learning Next.js, Nest.js, Perfecting react, javascript and other skills
-* ⚡  I´m -not- secretly a lawyer
 
 <a href="https://www.github.com/Arfirpo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Arfirpo?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
