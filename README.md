@@ -1,4 +1,4 @@
-![Banner](./)
+![Banner](./github-heeader-image.png)
 
 # 💫 About Me:
 I´ve lerning to code since 2023. Currently studying University Analyst Programmer -APU- at the UNLP (National University of La Plata).<br><br>* 🌍  I'm based in La Plata, Buenos Aires. Argentina<br>* ✉️  You can contact me at [agustin\_firpo@outlook.com.ar](mailto:agustin_firpo@outlook.com.ar)<br>* 🧠  I'm learning Next.js, Nest.js, Perfecting react, javascript and other skills
