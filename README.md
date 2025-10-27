@@ -75,9 +75,14 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
     </a>
     <!-- Segundo Semestre -->
     <h4 style="color:#FF9800;">Segundo Semestre</h4>
-    <a href="">
+    <a href="https://github.com/Arfirpo/ORIENTACION-A-OBJETOS-I">
       <img width="280"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=3B2E10&border_color=FF9800&icon_color=FF9800&show_icons=true"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=ORIENTACION-A-OBJETOS-I&theme=midnight-purple&bg_color=3B2E10&border_color=FF9800&icon_color=FF9800&show_icons=true"
+           style="margin: 10px;">
+    </a>
+    <a href="https://github.com/Arfirpo/DISENIO-DE-BASES-DE-DATOS">
+    <img width="280"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=DISENIO-DE-BASES-DE-DATOS&theme=midnight-purple&bg_color=3B2E10&border_color=FF9800&icon_color=FF9800&show_icons=true"
            style="margin: 10px;">
     </a>
   </div>
