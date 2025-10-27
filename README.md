@@ -32,53 +32,9 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
 
 <div align="center">
     <h3 align="center"><b>Primer año</b></h3>
-    <!-- 1er Semestre -->
     <a href="https://github.com/Arfirpo/CADP-INFORMATICA-UNLP">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=1er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=1er-Semestre&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=CADP&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=OC&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-
-    <!-- 2do Semestre (mismo año, color relacionado) -->
-    
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=2do-Semestre&theme=midnight-purple&bg_color=1F223F&border_color=7a0db0&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=Taller-Programacion&theme=midnight-purple&bg_color=1F223F&border_color=7a0db0&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=Arquitectura-Computadoras&theme=midnight-purple&bg_color=1F223F&border_color=7a0db0&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-
-    <h3 align="center">Segundo año</h3>
-    <!-- 3er Semestre -->
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=3er-Semestre&theme=midnight-purple&bg_color=1F2E22&border_color=0db07a&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=4to-Semestre&theme=midnight-purple&bg_color=1F2E22&border_color=0db07a&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-
-    <!-- Otros repos del mismo año -->
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=FOD&theme=midnight-purple&bg_color=1F2E22&border_color=0db07a&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=AYED&theme=midnight-purple&bg_color=1F2E22&border_color=0db07a&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-
-    <h3 align="center">Tercer año</h3>
-    <!-- 5to Semestre -->
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=5to-Semestre&theme=midnight-purple&bg_color=221F2E&border_color=db0d6a&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-    <a href="">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=CPLP&theme=midnight-purple&bg_color=221F2E&border_color=db0d6a&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
+    <!-- Añadir más tarjetas aquí -->
 </div>
 
