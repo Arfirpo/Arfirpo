@@ -23,3 +23,172 @@ I´ve lerning to code since 2023. Currently studying University Analyst Programm
 ---
 [![](https://visitcount.itsvg.in/api?id=arfirpo&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🎓 Analista Programador Universitario — UNLP
+
+Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera **Analista Programador Universitario** de la **Universidad Nacional de La Plata**.
+
+---
+
+## 🧭 Primer Año
+
+### 📗 1er Semestre
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <div style="border: 2px solid #2196F3; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E3F2FD;">
+    <h4>MATE I</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #2196F3; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E3F2FD;">
+    <h4>CADP</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #2196F3; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E3F2FD;">
+    <h4>ORG. DE COMP.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+</div>
+
+### 📘 2do Semestre
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E8F5E9;">
+    <h4>MATE II</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E8F5E9;">
+    <h4>TALLER DE PROG.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E8F5E9;">
+    <h4>ARQ. DE COMP.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+</div>
+
+---
+
+## 🧭 Segundo Año
+
+### 📗 1er Semestre
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <div style="border: 2px solid #9C27B0; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #F3E5F5;">
+    <h4>AYED</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #9C27B0; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #F3E5F5;">
+    <h4>SEMINARIO DE LENGUAJE</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #9C27B0; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #F3E5F5;">
+    <h4>FOD</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+</div>
+
+### 📘 2do Semestre
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <div style="border: 2px solid #FF9800; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #FFF3E0;">
+    <h4>OO1</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #FF9800; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #FFF3E0;">
+    <h4>DBD</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #FF9800; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #FFF3E0;">
+    <h4>ING. DE SOFT.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #FF9800; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #FFF3E0;">
+    <h4>ISO</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+</div>
+
+---
+
+## 🧭 Tercer Año
+
+### 📗 1er Semestre
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <div style="border: 2px solid #1565C0; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E3F2FD;">
+    <h4>MATE III</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #1565C0; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E3F2FD;">
+    <h4>OO2</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #1565C0; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #E3F2FD;">
+    <h4>ING. DE SOFT. II</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+</div>
+
+### 📘 2do Semestre
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <div style="border: 2px solid #9E9E9E; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #F5F5F5;">
+    <h4>PROY. DE SOFT.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #9E9E9E; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #F5F5F5;">
+    <h4>PROG. CONC.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #9E9E9E; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #F5F5F5;">
+    <h4>TALLER DE TEC. DE PROD. DE SOFT.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+</div>
+
+---
+
+## 🧭 Optativas
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <div style="border: 2px solid #B0BEC5; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #ECEFF1;">
+    <h4>CPLP</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #B0BEC5; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #ECEFF1;">
+    <h4>BASES DE DATOS I</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #B0BEC5; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #ECEFF1;">
+    <h4>REDES Y COM.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+  <div style="border: 2px solid #B0BEC5; border-radius: 10px; padding: 10px 20px; width: 220px; text-align: center; background-color: #ECEFF1;">
+    <h4>SIST. Y ORG.</h4>
+    <a href="#">🔗 Repositorio</a>
+  </div>
+
+</div>
+
