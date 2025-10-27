@@ -16,7 +16,7 @@ En este apartado se agrupan los repositorios de varias de las materia de la carr
   
   <!-- ================= PRIMER AÑO ================= -->
   <div style="border:3px solid #2196F3; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: 400">
-    <h3 style="color:#2196F3;"><b>Primer Año</b></h3>
+    <h3 align="left" style="color:#2196F3;"><b>Primer Año</b></h3>
     <!-- Primer Semestre -->
     <h4>Primer Semestre</h4>
     <a href="https://github.com/Arfirpo/CADP-INFORMATICA-UNLP">
