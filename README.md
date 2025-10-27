@@ -91,8 +91,7 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=1F1F1F&border_color=9E9E9E&icon_color=9E9E9E&show_icons=true"
            style="margin: 10px;">
     </a> 
-    </div>  -->
-  </div>
+    </div>  --> </div>
 </div>
 
 
