@@ -33,7 +33,7 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
 <div align="center">
   
   <!-- ================= PRIMER AÑO ================= -->
-  <div style="border: 3px solid #2196F3; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: 400">
+  <div style="border:3px solid #2196F3; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: 400">
     <h3 style="color:#2196F3;"><b>Primer Año</b></h3>
     <!-- Primer Semestre -->
     <h4>Primer Semestre</h4>
@@ -46,7 +46,7 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
     <h4>Segundo Semestre</h4>
     <a href="https://github.com/Arfirpo/TALLER-DE-PROGRAMACION-INFORMATICA-UNLP">
     <img width="280"
-       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=TALLER-DE-PROGRAMACION-INFORMATICA-UNLP&theme=midnight-purple&bg_color=103B20&border_color=4CAF50&icon_color=4CAF50&show_icons=false"
+       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=TALLER-DE-PROGRAMACION-INFORMATICA-UNLP&theme=midnight-purple&bg_color=103B20&border_color=4CAF50&icon_color=4CAF50&show_icons=true"
        style="margin: 10px;">
     </a>
   </div>
@@ -56,15 +56,15 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
     <!-- Primer Semestre -->
     <h4 style="color:#9C27B0;">Primer Semestre</h4>
     <a href="">
-      <img width="265"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=2E103B&border_color=9C27B0&icon_color=9C27B0&show_icons=false"
+      <img width="280"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=2E103B&border_color=9C27B0&icon_color=9C27B0&show_icons=true"
            style="margin: 10px;">
     </a>
     <!-- Segundo Semestre -->
     <h4 style="color:#FF9800;">Segundo Semestre</h4>
     <a href="">
-      <img width="265"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=3B2E10&border_color=FF9800&icon_color=FF9800&show_icons=false"
+      <img width="280"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=3B2E10&border_color=FF9800&icon_color=FF9800&show_icons=true"
            style="margin: 10px;">
     </a>
   </div>
@@ -75,15 +75,15 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
     <!-- Primer Semestre -->
     <h4 style="color:#1565C0;">Primer Semestre</h4>
     <a href="">
-      <img width="265"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=102540&border_color=1565C0&icon_color=1565C0&show_icons=false"
+      <img width="280"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=102540&border_color=1565C0&icon_color=1565C0&show_icons=true"
            style="margin: 10px;">
     </a>
     <!-- Segundo Semestre -->
     <h4 style="color:#9E9E9E;">Segundo Semestre</h4>
     <a href="">
-      <img width="265"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=1F1F1F&border_color=9E9E9E&icon_color=9E9E9E&show_icons=false"
+      <img width="280"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=1F1F1F&border_color=9E9E9E&icon_color=9E9E9E&show_icons=true"
            style="margin: 10px;">
     </a>
   </div>
