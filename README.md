@@ -68,6 +68,11 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=FOD&theme=midnight-purple&bg_color=2E103B&border_color=9C27B0&icon_color=9C27B0&show_icons=true"
            style="margin: 10px;">
     </a>
+    <a href="https://github.com/Arfirpo/AYED">
+    <img width="280"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=AYED&theme=midnight-purple&bg_color=2E103B&border_color=9C27B0&icon_color=9C27B0&show_icons=true"
+           style="margin: 10px;">
+    </a>
     <!-- Segundo Semestre -->
     <h4 style="color:#FF9800;">Segundo Semestre</h4>
     <a href="">
