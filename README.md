@@ -31,10 +31,32 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
 ---
 
 <div align="center">
-    <h3 align="center"><b>Primer año</b></h3>
-    <a href="https://github.com/Arfirpo/CADP-INFORMATICA-UNLP">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=CADP-INFORMATICA-UNLP&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
-    </a>
-    <!-- Añadir más tarjetas aquí -->
+
+  <!-- ================= PRIMER AÑO ================= -->
+  <h3 align="center"><b>Primer año</b></h3>
+
+  <!-- Primer Semestre -->
+  <h4>Primer Semestre</h4>
+  <a href="https://github.com/Arfirpo/CADP-INFORMATICA-UNLP">
+    <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=CADP-INFORMATICA-UNLP&theme=midnight-purple&bg_color=E3F2FD&border_color=2196F3&icon_color=1565C0&show_icons=false" style="margin: 10px;">
+  </a>
+
+  <!-- Segundo Semestre -->
+  <h4>Segundo Semestre</h4>
+  <a href="https://github.com/Arfirpo/TALLER-DE-PROGRAMACION-INFORMATICA-UNLP">
+    <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=TALLER-DE-PROGRAMACION-INFORMATICA-UNLP&theme=midnight-purple&bg_color=E8F5E9&border_color=4CAF50&icon_color=2E7D32&show_icons=false" style="margin: 10px;">
+  </a>
+  <a href="">
+    <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=&theme=midnight-purple&bg_color=E8F5E9&border_color=4CAF50&icon_color=2E7D32&show_icons=false" style="margin: 10px;">
+  </a>
+  <a href="">
+    <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agustin-firpo&repo=&theme=midnight-purple&bg_color=E8F5E9&border_color=4CAF50&icon_color=2E7D32&show_icons=false" style="margin: 10px;">
+  </a>
+
+
+
+ 
+
 </div>
+
 
