@@ -45,12 +45,12 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
     <!-- Segundo Semestre -->
     <h4>Segundo Semestre</h4>
     <a href="https://github.com/Arfirpo/TALLER-DE-PROGRAMACION-INFORMATICA-UNLP">
-    <img width="280"
+    <img width="265"
        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=TALLER-DE-PROGRAMACION-INFORMATICA-UNLP&theme=midnight-purple&bg_color=103B20&border_color=4CAF50&icon_color=4CAF50&show_icons=true"
        style="margin: 10px;">
     </a>
     <a href="https://github.com/Arfirpo/Arquitectura-de-Computadoras">
-    <img width="280"
+    <img width="265"
        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=Arquitectura-de-ComputadorasP&theme=midnight-purple&bg_color=103B20&border_color=4CAF50&icon_color=4CAF50&show_icons=true"
        style="margin: 10px;">
     </a>
