@@ -42,7 +42,7 @@ En este apartado se agrupan los repositorios de varias de las materia de la carr
 
   <!-- ================= SEGUNDO AÑO ================= -->
   <div style="border: 4px solid 9C27B0; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content; background-color: 1B0D2D">
-    <h3 style="color:#9C27B0"><b>Segundo Año</b></h3>
+    <h3 align="left" style="color:#9C27B0"><b>Segundo Año</b></h3>
     <!-- Primer Semestre -->
     <h4 style="color:9C27B0;">Primer Semestre</h4>
     <a href="https://github.com/Arfirpo/FOD">
