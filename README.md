@@ -51,6 +51,9 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
     </a>
   </div>
   
+  <hr style="border: 2px solid #2196F3; width: 80%; margin: 40px 0;">
+
+  <!-- ================= SEGUNDO AÑO ================= -->
   <div style="border: 4px solid #9C27B0; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content; background-color: #1B0D2D">
     <h3 style="color:#9C27B0"><b>Segundo Año</b></h3>
     <!-- Primer Semestre -->
