@@ -33,7 +33,7 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
 <div align="center">
   
   <!-- ================= PRIMER AÑO ================= -->
-  <div style="border: 3px solid #2196F3; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content">
+  <div style="border: 3px solid #2196F3; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: 400">
     <h3 style="color:#2196F3;"><b>Primer Año</b></h3>
     <!-- Primer Semestre -->
     <h4>Primer Semestre</h4>
