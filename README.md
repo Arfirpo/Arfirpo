@@ -8,7 +8,7 @@ I´ve lerning to code since 2023. Currently studying University Analyst Programm
 
 # 🎓 Analista Programador Universitario — UNLP
 
-Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera **Analista Programador Universitario** de la **Universidad Nacional de La Plata**.
+En este apartado se agrupan los repositorios de varias de las materia de la carrera **Analista Programador Universitario** de la **Universidad Nacional de La Plata**, ordenados por año y por semestre.
 
 ---
 
