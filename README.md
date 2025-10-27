@@ -74,7 +74,7 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
 
   <hr style="border: 2px solid #2196F3; width: 80%; margin: 40px 0;">
   
-  <!-- ================= TERCER AÑO ================= -->
+  <!-- ================= TERCER AÑO ================= 
   <div style="border: 4px solid #1565C0; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content; background-color: #0D1A2B;">
     <h3 style="color:#1565C0;">Tercer Año</h3>
     <!-- Primer Semestre -->
@@ -90,9 +90,9 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
       <img width="280"
            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=1F1F1F&border_color=9E9E9E&icon_color=9E9E9E&show_icons=true"
            style="margin: 10px;">
-    </a>
+    </a> 
+    </div>  -->
   </div>
-</div>
 </div>
 
 
