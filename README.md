@@ -72,6 +72,8 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
     </a>
   </div>
 
+  <hr style="border: 2px solid #2196F3; width: 80%; margin: 40px 0;">
+  
   <!-- ================= TERCER AÑO ================= -->
   <div style="border: 4px solid #1565C0; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content; background-color: #0D1A2B;">
     <h3 style="color:#1565C0;">Tercer Año</h3>
