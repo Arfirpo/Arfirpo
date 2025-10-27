@@ -62,10 +62,10 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
   <div style="border: 4px solid 9C27B0; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content; background-color: 1B0D2D">
     <h3 style="color:#9C27B0"><b>Segundo Año</b></h3>
     <!-- Primer Semestre -->
-    <h4 style="color:#9C27B0;">Primer Semestre</h4>
-    <a href="">
+    <h4 style="color:9C27B0;">Primer Semestre</h4>
+    <a href="https://github.com/Arfirpo/FOD">
       <img width="280"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=2E103B&border_color=9C27B0&icon_color=9C27B0&show_icons=true"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=FOD&theme=midnight-purple&bg_color=2E103B&border_color=9C27B0&icon_color=9C27B0&show_icons=true"
            style="margin: 10px;">
     </a>
     <!-- Segundo Semestre -->
