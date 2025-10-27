@@ -38,9 +38,10 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
   <!-- Primer Semestre -->
   <h4>Primer Semestre</h4>
   <a href="https://github.com/Arfirpo/CADP-INFORMATICA-UNLP">
-    <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=CADP-INFORMATICA-UNLP&theme=midnight-purple&bg_color=2196F3&border_color=0D1A2A&icon_color=E3F2FD&show_icons=true" style="margin: 10px;">
+  <img width="265"
+       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=CADP-INFORMATICA-UNLP&theme=midnight-purple&bg_color=10283B&border_color=2196F3&icon_color=2196F3&show_icons=false"
+       style="margin: 10px;">
   </a>
-
   <!-- Segundo Semestre -->
   <h4>Segundo Semestre</h4>
   <a href="https://github.com/Arfirpo/TALLER-DE-PROGRAMACION-INFORMATICA-UNLP">
