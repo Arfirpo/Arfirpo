@@ -54,7 +54,7 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
   <hr style="border: 2px solid #2196F3; width: 80%; margin: 40px 0;">
 
   <!-- ================= SEGUNDO AÑO ================= -->
-  <div style="border: 4px solid #9C27B0; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content; background-color: #1B0D2D">
+  <div style="border: 4px solid 9C27B0; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content; background-color: 1B0D2D">
     <h3 style="color:#9C27B0"><b>Segundo Año</b></h3>
     <!-- Primer Semestre -->
     <h4 style="color:#9C27B0;">Primer Semestre</h4>
@@ -73,25 +73,7 @@ Este repositorio agrupa los proyectos y ejercicios de cada materia de la carrera
   </div>
 
   <hr style="border: 2px solid #2196F3; width: 80%; margin: 40px 0;">
-  
-  <!-- ================= TERCER AÑO ================= 
-  <div style="border: 4px solid #1565C0; padding: 15px; margin-bottom: 20px; border-radius: 15px; width: fit-content; background-color: #0D1A2B;">
-    <h3 style="color:#1565C0;">Tercer Año</h3>
-    <!-- Primer Semestre -->
-    <h4 style="color:#1565C0;">Primer Semestre</h4>
-    <a href="">
-      <img width="280"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=102540&border_color=1565C0&icon_color=1565C0&show_icons=true"
-           style="margin: 10px;">
-    </a>
-    <!-- Segundo Semestre -->
-    <h4 style="color:#9E9E9E;">Segundo Semestre</h4>
-    <a href="">
-      <img width="280"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arfirpo&repo=&theme=midnight-purple&bg_color=1F1F1F&border_color=9E9E9E&icon_color=9E9E9E&show_icons=true"
-           style="margin: 10px;">
-    </a> 
-    </div>  --> </div>
+
 </div>
 
 
